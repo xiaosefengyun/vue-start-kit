@@ -1,6 +1,6 @@
 <template>
   <div>
-    vue-start-kit
+    {{ $t('lang.hello') }}
   </div>
 </template>
 <script>
