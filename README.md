@@ -62,6 +62,14 @@ import 'element-ui/lib/theme-default/index.css';
 Vue.use(ElementUI);
 ```
 
+In package.json
+
+```
+"element-ui": "^1.3.7",
+```
+
+
+
 
 
 
