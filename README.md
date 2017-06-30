@@ -1,6 +1,6 @@
 # vue-start-kit
 
-> A Vue.js project
+> High availability based on Vue-CLI expand a scaffold, The purpose of this project is to make it easy for everyone to develop vuejs 
 
 ## Build Setup
 
@@ -28,6 +28,32 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+> We use the components of Element-ui、 axios、 vue-i18n、 and vuex, use these components to help us better develop vuejs.
+
+In this start-kit we have already supported sass less you can use the following code directly
+
+```css
+<style lang="scss">
+</style>
+```
+
+Taking into account the use of each person different scenes. The network library for the most simple package.If you want to use the network request, you will find it in the utils folder.
+
+```javascript
+import { get } from './utils/request';
+
+get('http://example.com')
+	.then((response) => {
+      console.log(response);
+	});
+```
+
+
+
+
 
 ## License
 
