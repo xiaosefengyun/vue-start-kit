@@ -31,5 +31,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## License
 
-This project is licensed under the MIT license, Copyright (c) 2017 xiaosefengyun
-Stoiber. For more information see `LICENSE.md`.
+This project is licensed under the MIT license, Copyright (c) 2017 xiaosefengyun. For more information see `LICENSE.md`.
