@@ -9,7 +9,6 @@ import i18n from './translations';
 
 Vue.use(ElementUI);
 
-
 Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
