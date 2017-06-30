@@ -51,6 +51,17 @@ get('http://example.com')
 	});
 ```
 
+In this project, the Element-ui component was added. If you do not need to use the UI component you can remove the relevant code in main.js.
+
+```javascript
+// remove
+import ElementUI from 'element-ui';
+import 'element-ui/lib/theme-default/index.css';
+
+//remove 
+Vue.use(ElementUI);
+```
+
 
 
 
